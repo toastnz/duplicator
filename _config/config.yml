@@ -1,0 +1,6 @@
+---
+Name: silverstripe-duplicator
+---
+SilverStripe\ORM\DataObject:
+  extensions:
+    - Toast\Duplicator\DuplicatorExtension
